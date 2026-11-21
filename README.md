@@ -30,10 +30,28 @@
 <h3 align="center"><img src="assets/h-stack.jpg" width="100%" alt="Stack" /></h3>
 
 <p align="center">
-  <img src="assets/stack.png" width="100%" alt="Stack. Languages: TypeScript, JavaScript, Python, Go. Frontend: Next.js, React, Tailwind CSS. Backend and AI: NestJS, FastAPI, Prisma, LangChain, LangGraph. Data and infra: PostgreSQL, Redis, RabbitMQ, Docker." />
+  <img src="assets/badges/typescript.png" height="40" alt="TypeScript" />
+  <img src="assets/badges/javascript.png" height="40" alt="JavaScript" />
+  <img src="assets/badges/python.png" height="40" alt="Python" />
+  <img src="assets/badges/go.png" height="40" alt="Go" />
+  <br />
+  <img src="assets/badges/nextjs.png" height="40" alt="Next.js" />
+  <img src="assets/badges/react.png" height="40" alt="React" />
+  <img src="assets/badges/tailwind.png" height="40" alt="Tailwind CSS" />
+  <br />
+  <img src="assets/badges/nestjs.png" height="40" alt="NestJS" />
+  <img src="assets/badges/fastapi.png" height="40" alt="FastAPI" />
+  <img src="assets/badges/prisma.png" height="40" alt="Prisma" />
+  <img src="assets/badges/langchain.png" height="40" alt="LangChain" />
+  <img src="assets/badges/langgraph.png" height="40" alt="LangGraph" />
+  <br />
+  <img src="assets/badges/postgresql.png" height="40" alt="PostgreSQL" />
+  <img src="assets/badges/redis.png" height="40" alt="Redis" />
+  <img src="assets/badges/rabbitmq.png" height="40" alt="RabbitMQ" />
+  <img src="assets/badges/docker.png" height="40" alt="Docker" />
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/Fi.is.me.hello"><img src="assets/btn-facebook.png" width="300" alt="Connect on Facebook" /></a>
-  <a href="https://www.linkedin.com/in/phi-nguy%E1%BB%85n-7351ab3b5"><img src="assets/btn-linkedin.png" width="300" alt="Connect on LinkedIn" /></a>
+  <a href="https://facebook.com/Fi.is.me.hello"><img src="assets/btn-facebook.png" width="290" alt="Connect on Facebook" /></a>
+  <a href="https://www.linkedin.com/in/phi-nguy%E1%BB%85n-7351ab3b5"><img src="assets/btn-linkedin.png" width="290" alt="Connect on LinkedIn" /></a>
 </p>
