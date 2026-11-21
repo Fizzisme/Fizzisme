@@ -30,25 +30,25 @@
 <h3 align="center"><img src="assets/h-stack.jpg" width="100%" alt="Stack" /></h3>
 
 <p align="center">
-  <img src="assets/badges/typescript.png" height="40" alt="TypeScript" />
-  <img src="assets/badges/javascript.png" height="40" alt="JavaScript" />
-  <img src="assets/badges/python.png" height="40" alt="Python" />
-  <img src="assets/badges/go.png" height="40" alt="Go" />
+  <img src="assets/badges/typescript.png" height="35" alt="TypeScript" />
+  <img src="assets/badges/javascript.png" height="35" alt="JavaScript" />
+  <img src="assets/badges/python.png" height="35" alt="Python" />
+  <img src="assets/badges/go.png" height="35" alt="Go" />
   <br />
-  <img src="assets/badges/nextjs.png" height="40" alt="Next.js" />
-  <img src="assets/badges/react.png" height="40" alt="React" />
-  <img src="assets/badges/tailwind.png" height="40" alt="Tailwind CSS" />
+  <img src="assets/badges/nextjs.png" height="35" alt="Next.js" />
+  <img src="assets/badges/react.png" height="35" alt="React" />
+  <img src="assets/badges/tailwind.png" height="35" alt="Tailwind CSS" />
   <br />
-  <img src="assets/badges/nestjs.png" height="40" alt="NestJS" />
-  <img src="assets/badges/fastapi.png" height="40" alt="FastAPI" />
-  <img src="assets/badges/prisma.png" height="40" alt="Prisma" />
-  <img src="assets/badges/langchain.png" height="40" alt="LangChain" />
-  <img src="assets/badges/langgraph.png" height="40" alt="LangGraph" />
+  <img src="assets/badges/nestjs.png" height="35" alt="NestJS" />
+  <img src="assets/badges/fastapi.png" height="35" alt="FastAPI" />
+  <img src="assets/badges/prisma.png" height="35" alt="Prisma" />
+  <img src="assets/badges/langchain.png" height="35" alt="LangChain" />
+  <img src="assets/badges/langgraph.png" height="35" alt="LangGraph" />
   <br />
-  <img src="assets/badges/postgresql.png" height="40" alt="PostgreSQL" />
-  <img src="assets/badges/redis.png" height="40" alt="Redis" />
-  <img src="assets/badges/rabbitmq.png" height="40" alt="RabbitMQ" />
-  <img src="assets/badges/docker.png" height="40" alt="Docker" />
+  <img src="assets/badges/postgresql.png" height="35" alt="PostgreSQL" />
+  <img src="assets/badges/redis.png" height="35" alt="Redis" />
+  <img src="assets/badges/rabbitmq.png" height="35" alt="RabbitMQ" />
+  <img src="assets/badges/docker.png" height="35" alt="Docker" />
 </p>
 
 <p align="center">
