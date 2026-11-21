@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <sub>Fiurozz: <a href="https://github.com/Fizzisme/fiurozz-fe">frontend</a> · <a href="https://github.com/Fizzisme/fiurozz-be">backend</a></sub>
+  <sub>Marginalleya: <a href="https://demo.marginalleya.me/">live demo</a> · <a href="https://github.com/23521155/cloud-e-commerce">code</a> &nbsp;|&nbsp; Fiurozz: <a href="https://github.com/Fizzisme/fiurozz-fe">frontend</a> · <a href="https://github.com/Fizzisme/fiurozz-be">backend</a></sub>
 </p>
 
 <h3 align="center"><img src="assets/h-ai.png" width="100%" alt="AI" /></h3>
@@ -21,6 +21,10 @@
 <p align="center">
   <a href="https://github.com/kutin2005gl/BOA"><img src="assets/card-boa.png" width="48%" alt="BOA, a multi-agent system for phone retail operations: a coordinator plans the work, specialist agents carry it out and a person approves every action. Built with Go, Python, LangGraph, FastAPI and Next.js." /></a>
   <a href="https://github.com/Fizzisme/finsights-ai-service"><img src="assets/card-finsights-ai.png" width="48%" alt="Finsights AI, in progress: the AI service behind Finsights, a Vietnamese finance site, with agentic RAG over market news and documents and an evaluation harness. Built with Python, FastAPI, LangGraph and pgvector." /></a>
+</p>
+
+<p align="center">
+  <sub>Finsights: <a href="https://finsights-frontend-gray.vercel.app/">live site</a> · <a href="https://github.com/Fizzisme/finsights-ai-service">AI service</a></sub>
 </p>
 
 <h3 align="center"><img src="assets/h-stack.png" width="100%" alt="Stack" /></h3>
