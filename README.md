@@ -30,10 +30,10 @@
 <h3 align="center"><img src="assets/h-stack.jpg" width="100%" alt="Stack" /></h3>
 
 <p align="center">
-  <img src="assets/stack.png" width="100%" alt="Stack. Languages: TypeScript, JavaScript, Python, Go. Frontend: Next.js, React, Tailwind CSS. Backend and AI: NestJS, FastAPI, Prisma, LangGraph. Data and infra: PostgreSQL, Redis, RabbitMQ, Docker." />
+  <img src="assets/stack.png" width="100%" alt="Stack. Languages: TypeScript, JavaScript, Python, Go. Frontend: Next.js, React, Tailwind CSS. Backend and AI: NestJS, FastAPI, Prisma, LangChain, LangGraph. Data and infra: PostgreSQL, Redis, RabbitMQ, Docker." />
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/Fi.is.me.hello"><img src="assets/btn-facebook.png" width="270" alt="Connect on Facebook" /></a>
-  <a href="https://www.linkedin.com/in/phi-nguy%E1%BB%85n-7351ab3b5"><img src="assets/btn-linkedin.png" width="270" alt="Connect on LinkedIn" /></a>
+  <a href="https://facebook.com/Fi.is.me.hello"><img src="assets/btn-facebook.png" width="300" alt="Connect on Facebook" /></a>
+  <a href="https://www.linkedin.com/in/phi-nguy%E1%BB%85n-7351ab3b5"><img src="assets/btn-linkedin.png" width="300" alt="Connect on LinkedIn" /></a>
 </p>
