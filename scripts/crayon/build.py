@@ -221,18 +221,18 @@ if __name__ == "__main__":
         header("h-ai", "AI", icon_ai, 192, 12)
         header("h-stack", "Stack", icon_stack, 262, 13)
     if "cards" in which:
-        card("card-fiurozz", "Fiurozz", "Web platform", SKY,
-             "A portfolio and project showcase platform that tells the story behind the code: architecture, technical decisions and engineering process.",
-             ["Next.js", "NestJS", "Go", "RabbitMQ", "PostgreSQL"], 21)
-        card("card-finsights", "Finsights", "Finance web", SKY,
-             "A Vietnamese finance website with a stock market board, company news, a watchlist and an AI chatbot. I build the frontend and chatbot UI.",
-             ["Next.js", "React", "TypeScript"], 22)
+        card("card-marginalleya", "Marginalleya", "E-commerce", SKY,
+             "An online shop for used, new and rare books, built as microservices on Azure. I built the Go API gateway, the frontend, the deployment and the gRPC checkout.",
+             ["Go", "gRPC", "Next.js", "Azure"], 21)
+        card("card-fiurozz-be", "Fiurozz backend", "Backend", SKY,
+             "The backend of Fiurozz, a portfolio and project showcase platform that tells the story behind the code.",
+             ["NestJS", "Go", "RabbitMQ", "PostgreSQL"], 22)
         card("card-boa", "BOA", "Multi-agent", SKY,
              "A multi-agent system for phone retail operations. A coordinator plans the work, specialist agents carry it out, and a person approves every action.",
              ["Go", "Python", "LangGraph", "FastAPI", "Next.js"], 23)
-        card("card-catronaut", "Catronaut", "In planning", PINK,
-             "An agent harness that will turn a request like \"build an e-commerce site\" into a Next.js project running live in the browser.",
-             ["Python", "FastAPI", "MCP", "vLLM"], 24)
+        card("card-finsights-ai", "Finsights AI", "In progress", PINK,
+             "The AI service behind Finsights, a Vietnamese finance site: agentic RAG over market news and documents, with an evaluation harness.",
+             ["Python", "FastAPI", "LangGraph", "pgvector"], 24)
     if "stack" in which:
         stack(31)
     if "buttons" in which:
