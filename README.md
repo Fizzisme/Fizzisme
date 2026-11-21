@@ -8,8 +8,8 @@
 <h3 align="center"><img src="assets/h-software.jpg" width="100%" alt="Software" /></h3>
 
 <p align="center">
-  <a href="https://github.com/23521155/cloud-e-commerce"><img src="assets/card-marginalleya.jpg" height="260" alt="Marginalleya, an e-commerce site: an online shop for used, new and rare books, built as microservices on Azure. I built the Go API gateway, the frontend, the deployment and the gRPC checkout. Built with Go, gRPC, Next.js and Azure." /></a>
-  <a href="https://github.com/Fizzisme/fiurozz-be"><img src="assets/card-fiurozz-be.jpg" height="260" alt="Fiurozz backend: the backend of Fiurozz, a portfolio and project showcase platform that tells the story behind the code. Built with NestJS, Go, RabbitMQ and PostgreSQL." /></a>
+  <a href="https://github.com/23521155/cloud-e-commerce"><img src="assets/card-marginalleya.jpg" width="43.5%" alt="Marginalleya, an e-commerce site: an online shop for used, new and rare books, built as microservices on Azure. I built the Go API gateway, the frontend, the deployment and the gRPC checkout. Built with Go, gRPC, Next.js and Azure." /></a>
+  <a href="https://github.com/Fizzisme/fiurozz-be"><img src="assets/card-fiurozz-be.jpg" width="50%" alt="Fiurozz backend: the backend of Fiurozz, a portfolio and project showcase platform that tells the story behind the code. Built with NestJS, Go, RabbitMQ and PostgreSQL." /></a>
 </p>
 
 <p align="center">
